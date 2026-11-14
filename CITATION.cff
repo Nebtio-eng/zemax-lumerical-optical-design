@@ -3,9 +3,9 @@ message: "If you use this work, please cite it as below."
 type: software
 title: "Zemax Optical Design & Simulation"
 authors:
-  - given-names: "Benito Alappat"
-    family-names: "Tiny"
+  - given-names: "Alappat Tiny"
+    family-names: "Benito"
 date-released: "2026-11-14"
 license: MIT
-url: "https://github.com/Nebtio-eng/zemax-optical-design"
-repository-code: "https://github.com/Nebtio-eng/zemax-optical-design"
+url: "https://github.com/Nebtio-eng/Optical-design"
+repository-code: "https://github.com/Nebtio-eng/Optical-design"
