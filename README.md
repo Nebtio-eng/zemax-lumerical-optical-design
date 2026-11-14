@@ -43,7 +43,7 @@ Future projects will be added here as they are developed.
 If you use this work, please cite it as:
 
 ```text
-Benito Alappat Tiny (2026). Zemax Optical Design & Simulation. GitHub repository. https://github.com/Nebtio-eng/Optical-design
+Alappat Tiny, B. (2026). Zemax Optical Design & Simulation. GitHub repository. https://github.com/Nebtio-eng/Optical-design
 ```
 
 A machine-readable version is in [CITATION.cff](CITATION.cff).
