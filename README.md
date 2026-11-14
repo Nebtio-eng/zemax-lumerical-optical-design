@@ -38,4 +38,14 @@ Future projects will be added here as they are developed.
 - Monte Carlo ray tracing
 - Optical optimization and validation
 
+## How to cite
+
+If you use this work, please cite it as:
+
+```text
+Benito Alappat Tiny (2026). Zemax Optical Design & Simulation. GitHub repository. https://github.com/Nebtio-eng/zemax-optical-design
+```
+
+A machine-readable version is in [CITATION.cff](CITATION.cff).
+
 Licensed under the MIT License. See LICENSE.
