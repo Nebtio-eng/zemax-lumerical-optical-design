@@ -218,6 +218,4 @@ No claim of PIC-level electromagnetic accuracy is made.
 6. Ansys Optics, "Integrated microlens and grating coupler for photonic integrated circuits," application gallery.
 7. W. B. Joyce and B. C. DeLoach, "Alignment of Gaussian beams," *Appl. Opt.* **23**(23), 4187–4196 (1984).
 
-## Usage
-
-All rights reserved. This repository is public so that the work can be viewed and evaluated. Copying, modifying or reusing the code, models or results requires written permission from the author.
+Licensed under the MIT License. See LICENSE.

@@ -38,6 +38,4 @@ Future projects will be added here as they are developed.
 - Monte Carlo ray tracing
 - Optical optimization and validation
 
-## Usage
-
-All rights reserved. This repository is public so that the work can be viewed and evaluated. Copying, modifying or reusing the code, models or results requires written permission from the author.
+Licensed under the MIT License. See LICENSE.
